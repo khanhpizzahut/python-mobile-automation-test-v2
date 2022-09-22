@@ -1,0 +1,161 @@
+2022-09-20 21:18:33,699 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:18:33,699 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:18:34,892 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:18:34,892 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:18:36,003 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:18:36,004 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:18:41,937 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:18:41,937 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:18:42,145 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:18:44,860 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:18:44,860 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:18:46,555 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:18:46,555 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:18:47,852 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:18:47,852 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:18:51,498 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:18:51,498 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:22:38,534 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:22:38,535 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:22:39,924 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:22:39,924 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:22:41,040 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:22:41,040 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:22:44,728 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:22:44,728 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:22:44,880 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:22:44,880 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:22:45,078 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:22:45,078 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:22:46,623 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:22:46,623 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:22:47,767 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:22:47,767 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:22:51,215 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:22:51,216 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:33:05,380 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:33:05,381 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:33:06,590 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:33:06,590 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:33:07,732 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:33:07,733 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:33:12,727 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:33:12,727 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:33:12,830 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:33:12,830 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:33:12,973 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:33:12,973 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:33:14,416 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:33:14,416 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:33:15,482 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:33:15,482 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:33:19,405 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:33:19,405 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:36:06,072 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:36:06,073 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:36:07,480 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:36:07,480 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:36:08,579 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:36:08,579 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:36:12,321 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:36:12,322 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:36:12,439 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:36:12,439 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:36:12,580 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:36:12,580 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:36:14,026 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:36:14,026 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:36:15,077 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:36:15,077 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:36:18,483 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:36:18,483 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:37:40,126 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:37:40,126 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:37:41,466 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:37:41,466 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:37:42,375 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:37:42,375 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:37:45,932 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:37:45,933 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:37:46,036 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:37:46,036 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:37:46,176 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:37:46,176 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:37:47,571 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:37:47,572 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:37:48,781 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:37:48,782 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:37:52,235 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:37:52,235 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:40:28,802 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:40:28,803 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:40:30,161 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:40:30,161 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:40:31,263 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:40:31,263 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:40:36,664 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:40:36,664 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:40:36,770 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:40:36,771 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:40:36,916 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:40:36,916 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:40:38,362 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:40:38,362 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:40:39,472 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:40:39,472 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:40:43,867 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:40:43,868 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:42:28,011 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:42:28,012 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:42:29,116 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:42:29,117 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:42:30,039 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:42:30,039 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:42:34,778 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:42:34,778 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:42:34,918 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:42:34,918 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:42:35,075 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:42:35,075 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:42:36,557 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:42:36,558 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:42:37,828 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:42:37,828 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:42:42,221 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:42:42,221 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:51:57,019 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:51:57,020 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:51:58,121 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:51:58,121 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:51:59,074 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:51:59,074 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:52:03,825 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:52:03,825 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:52:03,927 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:52:03,927 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:52:04,121 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:52:04,121 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:52:05,521 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:52:05,522 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:52:06,486 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:52:06,486 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:52:10,094 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:52:10,094 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-20 21:53:33,296 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:53:33,297 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:53:34,644 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:53:34,644 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-20 21:53:35,642 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:53:35,642 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:53:39,293 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:53:39,294 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-20 21:53:39,393 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-20 21:53:39,393 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-20 21:53:39,542 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-20 21:53:39,542 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-20 21:53:40,838 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:53:40,838 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-20 21:53:42,001 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-20 21:53:42,001 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-20 21:53:45,696 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-20 21:53:45,696 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn

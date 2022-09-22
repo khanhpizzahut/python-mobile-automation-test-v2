@@ -1,0 +1,6 @@
+2022-09-22 16:53:17,149 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-22 16:56:58,316 - testrail.py:[131] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-22 16:56:58,322 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-22 16:57:30,092 - testrail.py:[131] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-22 16:58:20,011 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-22 16:59:20,708 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------

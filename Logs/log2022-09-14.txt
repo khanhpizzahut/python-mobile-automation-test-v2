@@ -1,0 +1,14 @@
+2022-09-14 12:48:11,898 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-14 12:48:11,898 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-14 12:48:13,202 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-14 12:48:13,202 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-14 12:48:14,400 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-14 12:48:14,400 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-14 12:48:21,276 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-14 12:48:21,276 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-14 12:48:22,866 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-14 12:48:22,866 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-14 12:48:23,817 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-14 12:48:23,817 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-14 12:48:27,999 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-14 12:48:27,999 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
