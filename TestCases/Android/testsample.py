@@ -1,12 +1,15 @@
 import unittest
 
+import pytest
+
 from Page_Actions.Android.Elements import *
 from Page_Actions.Android.OnboardScreen import OnboardScreen
 from TestCases.BaseTest import BaseTest
 
 
 class testSample(BaseTest, unittest.TestCase):
-    def test_001_2126_tc0(self):
+    @pytest.Mark.smoketest
+    def test_001_2136_tc0(self):
         onboard = OnboardScreen(self.driver)
         onboard.changeCountry_UK()
         onboard.verifyTextview(Onboard_Screen.btn_signin_register,"Sign in or Register")

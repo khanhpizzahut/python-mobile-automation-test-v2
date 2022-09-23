@@ -1,10 +1,8 @@
-from datetime import datetime
+from Utilities.configReader import readConfig
+from Utilities.testrail import *
 
-# datetime object containing current date and time
-now = datetime.now()
-
-print("now =", now)
-
-# dd/mm/YY H:M:S
-dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-print("date and time =", dt_string)
+testRunid = readConfig("config", "latest_test_run_id")
+case_id = "2136"
+print(testRunid)
+print(get_testcaseid_ontestrun(testRunid,case_id))
+#post_result_baseon_testcase_id(get_testcaseid_ontestrun(testRunid,case_id),"Passed","")

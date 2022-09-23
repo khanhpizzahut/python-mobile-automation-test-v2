@@ -1,3 +1,0 @@
-2022-09-01 15:28:52,180 - LogUtil.py:[22] - [INFO] - Khanh log
-2022-09-01 15:28:59,544 - LogUtil.py:[22] - [INFO] - Khanh log
-2022-09-01 15:37:35,776 - LogUtil.py:[22] - [INFO] - Khanh log222

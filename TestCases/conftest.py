@@ -39,11 +39,13 @@ def backtohome(request, appium_driver):
     yield
     item = request.node
     tc_name = request.node.name
-    print("tc_name: " + tc_name)
+    #print("tc_name: " + tc_name)
     #driver = appium_driver
 
     if item.rep_call.failed:
-        print("failed cmnr -backtohome")
+        pass
+        #print("failed cmnr -backtohome")
     else:
-        print("pass nha may")
+        pass
+        #print("pass nha may")
 

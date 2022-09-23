@@ -21,11 +21,11 @@ class BaseTest(unittest.TestCase):
             # dd/mm/YY H:M:S
             dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
             testRunname = "Automation test run: " + dt_string
-            create_test_run(testRunname,readConfig("config","testcases_id"))
+            create_test_run(testRunname,list(readConfig("config","testcases_id").split(",")))
             time.sleep(2)
             testRun_id = get_latest_test_run_id()
-            writeConfig("config","latest_test_run_id",testRun_id)
-            log.logger.info("[Testrail] create new test run: "+testRun_id + " - "+testRunname)
+            writeConfig("config","latest_test_run_id",str(testRun_id))
+            log.logger.info("[Testrail] create new test run: "+str(testRun_id) + " - "+testRunname)
 
     @classmethod
     def tearDownClass(cls) -> None:
@@ -43,7 +43,7 @@ class BaseTest(unittest.TestCase):
         tcname = arr_path[len(arr_path) - 1] #test_001_345_tc0
         #device_os = arr_path[1]  # Android or iOS
         case_id = tcname.split("_")[2]
-        log.logger.info("Testcase ID: " + case_id)
+        log.logger.info("[Testrail] Case ID: " + case_id)
 
         # Get test result after run testcase
         if hasattr(self._outcome, 'errors'):
@@ -56,11 +56,12 @@ class BaseTest(unittest.TestCase):
         ok = all(test != self for test, text in result.errors + result.failures)
         #Get result testcase pass or failed
         testRunid = readConfig("config", "latest_test_run_id")
+        testcase_id = get_testcaseid_ontestrun(testRunid, case_id)
         if ok:
             # When testcase Passed
-            log.logger.info("[RESULT - PASSED]: yeah...")
             if (case_id != 'sample'):
-                post_result_baseon_testcase_id(get_testcaseid_ontestrun(testRunid,case_id),"Passed","")
+                post_result_baseon_testcase_id(testcase_id,"Passed","")
+            log.logger.info("[RESULT - PASSED]: testcase id: "+str(testcase_id))
 
         else:
             for typ, errors in (('ERROR', result.errors), ('FAIL', result.failures)):
@@ -69,8 +70,8 @@ class BaseTest(unittest.TestCase):
                     if test is self:
                         msg = [x for x in text.split('\n')[1:]
                                if not x.startswith(' ')][0]
-                        log.logger.info("[RESULT - FAILED]: " + msg)
                         if (case_id != 'sample'):
-                            post_result_baseon_testcase_id(get_testcaseid_ontestrun(testRunid,case_id),"Failed",msg)
+                            post_result_baseon_testcase_id(testcase_id,"Failed",msg)
+                        log.logger.info("[RESULT - FAILED]: testcase id: "+str(testcase_id) +" - reason: " + msg)
 
         log.logger.info("<-----End of testcase")

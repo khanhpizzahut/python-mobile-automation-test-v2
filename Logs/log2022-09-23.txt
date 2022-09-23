@@ -1,0 +1,354 @@
+2022-09-23 07:01:36,170 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:04:05,299 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:07:22,339 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:07:49,512 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:10:37,131 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:11:03,513 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:12:09,396 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] khanh test thu
+2022-09-23 07:17:50,199 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] dddd
+2022-09-23 07:19:51,132 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 07:19:52,476 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 07:19:51
+2022-09-23 07:19:55,715 - testrail.py:[140] - [INFO] - Testrail latest test run id: 89
+2022-09-23 07:22:02,534 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 07:22:03,911 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 07:22:02
+2022-09-23 07:22:07,161 - testrail.py:[140] - [INFO] - Testrail latest test run id: 90
+2022-09-23 07:23:15,933 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 07:23:17,372 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 07:23:15
+2022-09-23 07:23:20,591 - testrail.py:[140] - [INFO] - Testrail latest test run id: 91
+2022-09-23 07:23:20,591 - BaseTest.py:[28] - [INFO] - [Testrail] create new test run: 91 - Automation test run: 23/09/2022 07:23:15
+2022-09-23 07:23:20,592 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 07:23:29,443 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2126_tc0
+2022-09-23 07:23:39,294 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 07:23:39,295 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 07:23:40,762 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 07:23:40,762 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 07:23:41,708 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 07:23:41,709 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 07:23:47,459 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 07:23:47,460 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 07:23:47,563 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 07:23:47,563 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 07:23:47,563 - BaseTest.py:[46] - [INFO] - Testcase ID: 2126
+2022-09-23 07:23:47,563 - BaseTest.py:[61] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 07:23:50,187 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 07:23:50,358 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 07:23:50,358 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 07:23:51,710 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 07:23:51,710 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 07:23:53,158 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 07:23:53,158 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 07:23:57,628 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 07:23:57,628 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 07:23:57,844 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 07:23:57,845 - BaseTest.py:[72] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 07:24:00,423 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 07:24:00,832 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:21:42,525 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4282
+2022-09-23 09:22:34,540 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:22:36,034 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 09:22:34
+2022-09-23 09:22:39,395 - testrail.py:[140] - [INFO] - Testrail latest test run id: 92
+2022-09-23 09:22:39,397 - BaseTest.py:[28] - [INFO] - [Testrail] create new test run: 92 - Automation test run: 23/09/2022 09:22:34
+2022-09-23 09:22:39,398 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:22:47,186 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2126_tc0
+2022-09-23 09:22:51,751 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:22:51,751 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:22:53,099 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:22:53,099 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:22:54,102 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:22:54,102 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:22:59,501 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:22:59,502 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:22:59,603 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:22:59,603 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:22:59,603 - BaseTest.py:[46] - [INFO] - Testcase ID: 2126
+2022-09-23 09:22:59,603 - BaseTest.py:[61] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 09:23:03,768 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:23:03,901 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:23:03,902 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:23:05,650 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:23:05,650 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:23:06,651 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:23:06,651 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:23:10,449 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:23:10,449 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:23:10,577 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 09:23:10,578 - BaseTest.py:[74] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 09:23:11,840 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4286
+2022-09-23 09:23:13,228 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4286, result: Failed
+2022-09-23 09:23:13,228 - BaseTest.py:[78] - [INFO] - <-----End of testcase
+2022-09-23 09:23:13,231 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:23:13,610 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:34:30,148 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:34:31,824 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 09:34:30
+2022-09-23 09:34:35,089 - testrail.py:[140] - [INFO] - Testrail latest test run id: 93
+2022-09-23 09:34:35,092 - BaseTest.py:[28] - [INFO] - [Testrail] create new test run: 93 - Automation test run: 23/09/2022 09:34:30
+2022-09-23 09:34:35,092 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:34:42,876 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2126_tc0
+2022-09-23 09:34:46,815 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:34:46,815 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:34:48,291 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:34:48,291 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:34:49,241 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:34:49,242 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:34:54,346 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:34:54,346 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:34:54,445 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:34:54,445 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:34:54,445 - BaseTest.py:[46] - [INFO] - Testcase ID: 2126
+2022-09-23 09:34:54,446 - BaseTest.py:[63] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 09:34:55,804 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:34:55,942 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:34:55,943 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:34:57,289 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:34:57,289 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:34:58,341 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:34:58,342 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:35:02,042 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:35:02,042 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:35:02,163 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 09:35:02,164 - BaseTest.py:[77] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 09:35:03,488 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4289
+2022-09-23 09:35:04,938 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4289, result: Failed
+2022-09-23 09:35:04,938 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:35:04,942 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:35:05,292 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:36:10,838 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:36:12,204 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 09:36:10
+2022-09-23 09:36:15,604 - testrail.py:[140] - [INFO] - Testrail latest test run id: 94
+2022-09-23 09:36:15,605 - BaseTest.py:[28] - [INFO] - [Testrail] create new test run: 94 - Automation test run: 23/09/2022 09:36:10
+2022-09-23 09:36:15,605 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:36:23,076 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2126_tc0
+2022-09-23 09:36:26,756 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:36:26,757 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:36:28,143 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:36:28,144 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:36:29,092 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:36:29,092 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:36:33,589 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:36:33,590 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:36:33,691 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:36:33,691 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:36:33,691 - BaseTest.py:[46] - [INFO] - Testcase ID: 2126
+2022-09-23 09:36:33,691 - BaseTest.py:[63] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 09:36:36,494 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:36:36,644 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:36:36,645 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:36:37,808 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:36:37,808 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:36:38,741 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:36:38,742 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:36:42,601 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:36:42,601 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:36:42,797 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 09:36:42,798 - BaseTest.py:[77] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 09:36:44,050 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4292
+2022-09-23 09:36:45,455 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4292, result: Failed
+2022-09-23 09:36:45,455 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:36:45,458 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:36:45,807 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:37:36,615 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4291
+2022-09-23 09:39:50,984 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:39:52,344 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 09:39:50
+2022-09-23 09:39:55,694 - testrail.py:[140] - [INFO] - Testrail latest test run id: 95
+2022-09-23 09:39:55,694 - BaseTest.py:[28] - [INFO] - [Testrail] create new test run: 95 - Automation test run: 23/09/2022 09:39:50
+2022-09-23 09:39:55,695 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:40:03,005 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2126_tc0
+2022-09-23 09:40:07,408 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:40:07,408 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:40:08,765 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:40:08,766 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:40:09,712 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:40:09,712 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:40:15,066 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:40:15,066 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:40:15,163 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:40:15,164 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:40:15,164 - BaseTest.py:[46] - [INFO] - Testcase ID: 2126
+2022-09-23 09:40:15,164 - BaseTest.py:[63] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 09:40:17,920 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:40:18,061 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:40:18,061 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:40:19,408 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:40:19,408 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:40:20,361 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:40:20,361 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:40:24,158 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:40:24,158 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:40:24,302 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 09:40:24,303 - BaseTest.py:[77] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 09:40:25,567 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4295
+2022-09-23 09:40:27,119 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4295, result: Failed
+2022-09-23 09:40:27,119 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:40:27,123 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:40:27,449 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:42:25,067 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:42:26,494 - testrail.py:[132] - [INFO] - Testrail create test run: [Automation] Automation test run: 23/09/2022 09:42:25
+2022-09-23 09:42:29,741 - testrail.py:[140] - [INFO] - Testrail latest test run id: 96
+2022-09-23 09:42:29,741 - BaseTest.py:[28] - [INFO] - [Testrail] create new test run: 96 - Automation test run: 23/09/2022 09:42:25
+2022-09-23 09:42:29,741 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:42:37,351 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2136_tc0
+2022-09-23 09:42:41,365 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:42:41,365 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:42:42,765 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:42:42,765 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:42:43,765 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:42:43,766 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:42:48,069 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:42:48,070 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:42:48,163 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:42:48,164 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:42:48,164 - BaseTest.py:[46] - [INFO] - Testcase ID: 2136
+2022-09-23 09:42:48,164 - BaseTest.py:[63] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 09:42:49,443 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4297
+2022-09-23 09:42:50,714 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4297, result: Passed
+2022-09-23 09:42:50,715 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:42:50,720 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:42:50,912 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:42:50,912 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:42:52,312 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:42:52,312 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:42:53,259 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:42:53,259 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:42:56,914 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:42:56,914 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:42:57,045 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 09:42:57,046 - BaseTest.py:[77] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 09:42:58,352 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4298
+2022-09-23 09:42:59,666 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4298, result: Failed
+2022-09-23 09:42:59,667 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:42:59,731 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:43:00,074 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:44:01,220 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:44:01,220 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:44:08,796 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2136_tc0
+2022-09-23 09:44:12,712 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:44:12,712 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:44:13,768 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:44:13,768 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:44:14,763 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:44:14,763 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:44:18,664 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:44:18,665 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:44:18,764 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:44:18,764 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:44:18,764 - BaseTest.py:[46] - [INFO] - Testcase ID: 2136
+2022-09-23 09:44:18,764 - BaseTest.py:[63] - [INFO] - [RESULT - PASSED]: yeah...
+2022-09-23 09:44:20,126 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4297
+2022-09-23 09:44:21,573 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4297, result: Passed
+2022-09-23 09:44:21,573 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:44:21,578 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:44:21,713 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:44:21,714 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:44:23,109 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:44:23,109 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:44:24,020 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:44:24,021 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:44:27,564 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:44:27,564 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:44:27,749 - BaseTest.py:[46] - [INFO] - Testcase ID: 2137
+2022-09-23 09:44:27,749 - BaseTest.py:[77] - [INFO] - [RESULT - FAILED]: AssertionError: assert 1 == 2
+2022-09-23 09:44:28,988 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4298
+2022-09-23 09:44:30,288 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4298, result: Failed
+2022-09-23 09:44:30,289 - BaseTest.py:[81] - [INFO] - <-----End of testcase
+2022-09-23 09:44:30,358 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:44:30,732 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:52:04,302 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:52:04,303 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:52:11,849 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2136_tc0
+2022-09-23 09:52:15,418 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:52:15,418 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:52:16,764 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:52:16,764 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:52:17,768 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:52:17,768 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:52:22,664 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:52:22,665 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:52:22,764 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:52:22,764 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:52:22,764 - BaseTest.py:[46] - [INFO] - [Testrail] Case ID: 2136
+2022-09-23 09:52:24,259 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4297
+2022-09-23 09:52:25,770 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4297, result: Passed
+2022-09-23 09:52:25,770 - BaseTest.py:[64] - [INFO] - [RESULT - PASSED]: testcase id: 4297
+2022-09-23 09:52:25,770 - BaseTest.py:[77] - [INFO] - <-----End of testcase
+2022-09-23 09:52:25,775 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:52:25,920 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:52:25,920 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:52:27,515 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:52:27,515 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:52:28,514 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:52:28,514 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:52:32,016 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:52:32,016 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:52:32,151 - BaseTest.py:[46] - [INFO] - [Testrail] Case ID: 2137
+2022-09-23 09:52:33,428 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4298
+2022-09-23 09:52:34,788 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4298, result: Failed
+2022-09-23 09:52:34,860 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:52:35,210 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:53:50,481 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:53:50,482 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:53:58,258 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2136_tc0
+2022-09-23 09:54:02,078 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:54:02,078 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:54:03,580 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:54:03,580 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:54:04,592 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:54:04,592 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:54:08,274 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:54:08,285 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:54:08,373 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:54:08,373 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:54:08,373 - BaseTest.py:[46] - [INFO] - [Testrail] Case ID: 2136
+2022-09-23 09:54:09,716 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4297
+2022-09-23 09:54:11,057 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4297, result: Passed
+2022-09-23 09:54:11,057 - BaseTest.py:[64] - [INFO] - [RESULT - PASSED]: testcase id: 4297
+2022-09-23 09:54:11,057 - BaseTest.py:[77] - [INFO] - <-----End of testcase
+2022-09-23 09:54:11,062 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:54:11,175 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:54:11,176 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:54:12,327 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:54:12,327 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:54:13,324 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:54:13,324 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:54:16,873 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:54:16,873 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:54:17,005 - BaseTest.py:[46] - [INFO] - [Testrail] Case ID: 2137
+2022-09-23 09:54:18,228 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4298
+2022-09-23 09:54:19,657 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4298, result: Failed
+2022-09-23 09:54:19,658 - BaseTest.py:[75] - [INFO] - [RESULT - FAILED]: testcase id: 4298 - reason: AssertionError: assert 1 == 2
+2022-09-23 09:54:19,658 - BaseTest.py:[77] - [INFO] - <-----End of testcase
+2022-09-23 09:54:19,730 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:54:20,082 - BaseTest.py:[32] - [INFO] - ---End test new feature---
+2022-09-23 09:56:11,665 - BaseTest.py:[18] - [INFO] - ------------Start test new feature---------------
+2022-09-23 09:56:11,666 - conftest.py:[20] - [INFO] - [DRIVER] --> Start
+2022-09-23 09:56:19,363 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_001_2136_tc0
+2022-09-23 09:56:23,484 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:56:23,484 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:56:24,879 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:56:24,879 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'United Kingdom']
+2022-09-23 09:56:25,889 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:56:25,889 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:56:29,908 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:56:29,908 - BasePage.py:[55] - [INFO] - [GETTEXT] btnSignIn
+2022-09-23 09:56:30,039 - BasePage.py:[60] - [INFO] - [GETTEXT] text is: Sign in or Register
+2022-09-23 09:56:30,040 - BasePage.py:[65] - [INFO] - [VERIFY] expected is: Sign in or Register
+2022-09-23 09:56:30,040 - BaseTest.py:[46] - [INFO] - [Testrail] Case ID: 2136
+2022-09-23 09:56:31,487 - testrail.py:[174] - [INFO] - Testrail case_id: 2136, testcase_id: 4297
+2022-09-23 09:56:32,801 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4297, result: Passed
+2022-09-23 09:56:32,802 - BaseTest.py:[64] - [INFO] - [RESULT - PASSED]: testcase id: 4297
+2022-09-23 09:56:32,802 - BaseTest.py:[77] - [INFO] - <-----End of testcase
+2022-09-23 09:56:32,808 - BaseTest.py:[38] - [INFO] - Start test new testcase-----> test_002_2137_tc1
+2022-09-23 09:56:32,935 - BasePage.py:[31] - [INFO] - [WATING] showed element: view_change_country
+2022-09-23 09:56:32,935 - BasePage.py:[38] - [INFO] - [CLICK] view_change_country
+2022-09-23 09:56:34,276 - BasePage.py:[31] - [INFO] - [WATING] showed element: // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:56:34,276 - BasePage.py:[38] - [INFO] - [CLICK] // android.widget.TextView[ @ text = 'India']
+2022-09-23 09:56:35,376 - BasePage.py:[31] - [INFO] - [WATING] showed element: btn_select_country
+2022-09-23 09:56:35,376 - BasePage.py:[38] - [INFO] - [CLICK] btn_select_country
+2022-09-23 09:56:39,079 - BasePage.py:[31] - [INFO] - [WATING] showed element: btnSignIn
+2022-09-23 09:56:39,079 - BasePage.py:[38] - [INFO] - [CLICK] btnSignIn
+2022-09-23 09:56:39,208 - BaseTest.py:[46] - [INFO] - [Testrail] Case ID: 2137
+2022-09-23 09:56:41,678 - testrail.py:[174] - [INFO] - Testrail case_id: 2137, testcase_id: 4298
+2022-09-23 09:56:43,183 - testrail.py:[156] - [INFO] - Testrail post result testcase id: 4298, result: Failed
+2022-09-23 09:56:43,183 - BaseTest.py:[75] - [INFO] - [RESULT - FAILED]: testcase id: 4298 - reason: AssertionError: assert 1 == 2
+2022-09-23 09:56:43,183 - BaseTest.py:[77] - [INFO] - <-----End of testcase
+2022-09-23 09:56:43,249 - conftest.py:[34] - [INFO] - [DRIVER] --> Quit
+2022-09-23 09:56:43,622 - BaseTest.py:[32] - [INFO] - ---End test new feature---

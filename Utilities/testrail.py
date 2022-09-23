@@ -153,7 +153,7 @@ def post_result_baseon_testcase_id(testcase_id, PassedorFailed, comment):
             {'status_id': result_id,
              'comment': '[Automation] - '+comment}
         )
-    log.logger.info("Testrail post result testcase id: " + str(testcase_id)+ ", result: "+PassedorFailed)
+    log.logger.info("[Testrail] post result testcase id: " + str(testcase_id) + ", result: "+PassedorFailed)
     """
     ID	Name
     1	Passed
@@ -166,17 +166,18 @@ def post_result_baseon_testcase_id(testcase_id, PassedorFailed, comment):
 def get_testcaseid_ontestrun(testrun_id,case_id): #(73,510)
     testrun_info = client.send_get('get_tests/'+ str(testrun_id))
     testcases_on_testrun = testrun_info.get("tests") # list
+    #print(testcases_on_testrun)
     for testcase_info in testcases_on_testrun:
         for x, y in testcase_info.items():
-            if(x=="case_id" and y==case_id):
+            if(x=="case_id" and str(y)==str(case_id)):
                 id = testcase_info["id"]
-                log.logger.info("Testrail case_id: "+str(case_id)+", testcase_id: "+str(id))
+                log.logger.info("[Testrail] case_id: "+str(case_id)+", testcase_id: "+str(id))
                 return id
 
 
 
 
-#create_test_run("khanh test thu",[510, 511, 512])
+#create_test_run("khanh test thu",["510", "511", "512"])
 #print(get_testcaseid_ontestrun(73,513))
 #print(get_newtestrun_baseon_project_mobile())
 #create_test_run("moi add vao luon",[510,511])
